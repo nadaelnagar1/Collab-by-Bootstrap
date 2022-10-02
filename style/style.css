@@ -1,0 +1,254 @@
+/* navbar */
+.navbar-brand img{
+    width: 50px;
+    height: 50px;
+}
+
+.navbar .Logo{
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 120%;
+    color: #6152FF;
+}
+.nav-item a{
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 120%;
+    color: #85888C !important;
+}
+
+.myBtn{
+    background: linear-gradient(95.04deg, #FE9A52 0.04%, #FF5748 100.04%) ;
+    border-radius: 4px;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 100%;
+    letter-spacing: 0.075em;
+    text-transform: uppercase;
+    color: white;
+}
+.myOutlineBtn{
+    border: 1px solid;
+    border-color:linear-gradient(95.04deg, #FE9A52 0.04%, #FF5748 100.04%) ;
+    border-radius: 4px;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 100%;
+    letter-spacing: 0.075em;
+    text-transform: uppercase;
+    color: #FF5748;
+}
+
+#signInBtn{
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 100%;
+    letter-spacing: 0.075em;
+    color: #FF5748;
+}
+
+/* sectionheader */
+.headerSection h1{
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 120%;
+    color: #5022E2;
+}
+
+.headerSection p{
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 140%;    
+    color: #9DA1A6;
+}
+
+.headerSection h6{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 140%;
+    color: #4B4D4F;
+}
+
+/* section3 */
+.Section3{
+    background: rgba(254, 184, 97, 0.1);
+}
+
+
+
+/* section4 */
+.Section4 h2{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 120%;
+    color: #353738;
+}
+.Section4 p{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 140%;
+    color: #4B4D4F;
+}
+.Section4 h6{
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 140%;
+    letter-spacing: 0.075em;
+    text-transform: uppercase;
+    color: #5022E2;
+}
+
+.Section4 img{
+    height: 550px;
+    width: 300px;
+}
+.Section4 .featureCont{
+    background: linear-gradient(180deg, #FFFEFC -55.43%, #FFF8F0 100%);
+}
+
+#icons{
+    height: 50px;
+    width: 50px;
+}
+
+
+/* section5 */
+
+.Section5 h6{
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 120%;
+    color: #353738;
+}
+.Section5 i{
+    color: #FE9A52;
+}
+.Section5 img{
+    height: 100px;
+    width: 100px;
+}
+.Section5 span{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 120%;
+    color: #353738;
+}
+.Section5 p{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 140%;
+    color: #353738;
+}
+#icon{
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+}
+
+/* section 6 */
+
+.Section6{
+    background: linear-gradient(274.74deg, #FFECD7 9.5%, rgba(255, 236, 215, 0) 100.79%);
+    margin: 120px 0;
+}
+.Section6 h2{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 120%;
+    color: #5022E2;
+}
+
+/* section 7 */
+
+.Section7 h3{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 120%;
+    text-align: center;
+    color: #353738;
+    margin-bottom: 50px;
+}
+
+.Section7 p{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 120%;
+    color: #353738;
+    padding: 0%;
+}
+.Section7 span{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 140%;
+    color: #5E6163;
+}
+
+/* section8 */
+.section8{
+    height: 500px;
+    background: linear-gradient(to bottom, white 0%,white 30%,#000000 30%,#FE9A52 30%,#FF5748 100%);
+    margin-bottom: 100px;
+}
+.section8 .col-md-4 img{
+    height: 500px;
+}
+.section8 h2{
+    margin-top: 70px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 120%;
+    color: #FFFFFF;
+}
+
+/* footer */
+.footSection{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.footSection h4{
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 120%;
+    color: #353738;
+}
+.footSection p{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 140%;
+    color: #5E6163;
+}
+
+.footSection h5{
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 140%;
+    letter-spacing: 0.075em;
+    text-transform: uppercase;
+    color: #353738;
+    cursor: pointer;
+}
+.footSection h6{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 120%;
+    color: #353738;
+    cursor: pointer;
+}
+
+.footSection span{
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 120%;
+    color: #6C7E99;
+}
+
+.footSection small{
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 120%;
+    color: #7E92B3;
+}
+#heart{
+    height: 20px;
+    width: 20px;
+}
