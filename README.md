@@ -1,2 +1,2 @@
 # Collab-by-Bootstrap
-[![Watch the video]()](Collab (2).mp4)
+[![Watch a snapshot of Collab](pic)](Collab (2).mp4)
